@@ -22,5 +22,5 @@ jobs:
         uses: docker/build-push-action@v5.0.0
         with:
           context: .
-          push: ${{secrets.ACR_NAME}}/contoso-website:latest
-          tags: true
+          tags: ${{secrets.ACR_NAME}}/contoso-website:latest
+          push: true
