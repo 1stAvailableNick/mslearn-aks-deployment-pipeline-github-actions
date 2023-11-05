@@ -1,0 +1,9 @@
+{
+  "name": "mslearn_credential_staging",
+  "issuer": "https://token.actions.githubusercontent.com",
+  "subject": "repo:1stAvailableNick/mslearn-aks-deployment-pipeline-github-actions:ref:refs/heads/main",
+  "description": "Testing",
+  "audiences": [
+    "api://AzureADTokenExchange"
+  ]
+}
