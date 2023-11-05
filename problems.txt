@@ -1,0 +1,5 @@
+github production pipeline ended with code 127
+set output command is deprecated
+az ad app is deprecated
+too many variables in secrets
+update permission each time tag is pushed
